@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PurpleButton.png-1c40bdb38fdfc6b6ff6b2f84a969ebf4.stex"
+path="res://.import/PurpleButton.png-a3060b1ead9f082523c3281493a3ebc1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/PurpleButton.png"
-dest_files=[ "res://.import/PurpleButton.png-1c40bdb38fdfc6b6ff6b2f84a969ebf4.stex" ]
+source_file="res://Sprites/PurpleButton.png"
+dest_files=[ "res://.import/PurpleButton.png-a3060b1ead9f082523c3281493a3ebc1.stex" ]
 
 [params]
 

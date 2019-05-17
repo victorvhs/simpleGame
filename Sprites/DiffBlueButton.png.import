@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DiffBlueButton.png-1074e7434816f52e2c838d33b2c8c5c9.stex"
+path="res://.import/DiffBlueButton.png-f1e440720837d3ca4af166e6531b65f0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/DiffBlueButton.png"
-dest_files=[ "res://.import/DiffBlueButton.png-1074e7434816f52e2c838d33b2c8c5c9.stex" ]
+source_file="res://Sprites/DiffBlueButton.png"
+dest_files=[ "res://.import/DiffBlueButton.png-f1e440720837d3ca4af166e6531b65f0.stex" ]
 
 [params]
 

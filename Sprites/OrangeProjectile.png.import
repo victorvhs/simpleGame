@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/OrangeProjectile.png-655c95c36fe1bfe61f4152ce5a4997d9.stex"
+path="res://.import/OrangeProjectile.png-8b59a64b6745a2460665bc08073dba25.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/OrangeProjectile.png"
-dest_files=[ "res://.import/OrangeProjectile.png-655c95c36fe1bfe61f4152ce5a4997d9.stex" ]
+source_file="res://Sprites/OrangeProjectile.png"
+dest_files=[ "res://.import/OrangeProjectile.png-8b59a64b6745a2460665bc08073dba25.stex" ]
 
 [params]
 

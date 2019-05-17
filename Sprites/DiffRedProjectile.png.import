@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DiffRedProjectile.png-9013d194871d2ac79c5c6cd133b1b536.stex"
+path="res://.import/DiffRedProjectile.png-e9dbee6da56e3febf1a23fd07fb212d8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/DiffRedProjectile.png"
-dest_files=[ "res://.import/DiffRedProjectile.png-9013d194871d2ac79c5c6cd133b1b536.stex" ]
+source_file="res://Sprites/DiffRedProjectile.png"
+dest_files=[ "res://.import/DiffRedProjectile.png-e9dbee6da56e3febf1a23fd07fb212d8.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/StopButton.png-5151e72e02c2823f5d17d82118861a5d.stex"
+path="res://.import/StopButton.png-f578824e246115804fa14c5f98ce0f5e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/StopButton.png"
-dest_files=[ "res://.import/StopButton.png-5151e72e02c2823f5d17d82118861a5d.stex" ]
+source_file="res://Sprites/StopButton.png"
+dest_files=[ "res://.import/StopButton.png-f578824e246115804fa14c5f98ce0f5e.stex" ]
 
 [params]
 

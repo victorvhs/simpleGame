@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/GreenProjectile.png-86dea5f8c0f8871069dfdbb9581448e4.stex"
+path="res://.import/GreenProjectile.png-6df5980192c67f01ead5c2c151fe7499.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/GreenProjectile.png"
-dest_files=[ "res://.import/GreenProjectile.png-86dea5f8c0f8871069dfdbb9581448e4.stex" ]
+source_file="res://Sprites/GreenProjectile.png"
+dest_files=[ "res://.import/GreenProjectile.png-6df5980192c67f01ead5c2c151fe7499.stex" ]
 
 [params]
 

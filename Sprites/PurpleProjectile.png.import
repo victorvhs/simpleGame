@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PurpleProjectile.png-d3b195290bef946fed7ab9a8e484e649.stex"
+path="res://.import/PurpleProjectile.png-c9e765d255db476cf4509e9103db7e28.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/PurpleProjectile.png"
-dest_files=[ "res://.import/PurpleProjectile.png-d3b195290bef946fed7ab9a8e484e649.stex" ]
+source_file="res://Sprites/PurpleProjectile.png"
+dest_files=[ "res://.import/PurpleProjectile.png-c9e765d255db476cf4509e9103db7e28.stex" ]
 
 [params]
 

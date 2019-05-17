@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DiffGreenButton.png-c184d1c3877524e040a40f3e659cbc18.stex"
+path="res://.import/DiffGreenButton.png-20852dae039be12abc47a91c59c9f8b5.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/DiffGreenButton.png"
-dest_files=[ "res://.import/DiffGreenButton.png-c184d1c3877524e040a40f3e659cbc18.stex" ]
+source_file="res://Sprites/DiffGreenButton.png"
+dest_files=[ "res://.import/DiffGreenButton.png-20852dae039be12abc47a91c59c9f8b5.stex" ]
 
 [params]
 

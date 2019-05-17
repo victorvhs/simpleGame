@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BlueButton.png-79c4732e9042f7f200f0d2b91967aa0b.stex"
+path="res://.import/BlueButton.png-46496c175edae051a08b2039bf28c0a7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/BlueButton.png"
-dest_files=[ "res://.import/BlueButton.png-79c4732e9042f7f200f0d2b91967aa0b.stex" ]
+source_file="res://Sprites/BlueButton.png"
+dest_files=[ "res://.import/BlueButton.png-46496c175edae051a08b2039bf28c0a7.stex" ]
 
 [params]
 

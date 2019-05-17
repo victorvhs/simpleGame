@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/TopButton.png-e0886ce5714957727dd58b1460c2c54b.stex"
+path="res://.import/TopButton.png-1b2aa77b1503dcf33da94f03bf789d9d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/TopButton.png"
-dest_files=[ "res://.import/TopButton.png-e0886ce5714957727dd58b1460c2c54b.stex" ]
+source_file="res://Sprites/TopButton.png"
+dest_files=[ "res://.import/TopButton.png-1b2aa77b1503dcf33da94f03bf789d9d.stex" ]
 
 [params]
 

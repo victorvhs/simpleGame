@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/DiffGreenProjectile.png-125587ee8b88dabf8cd2408682c0d7e3.stex"
+path="res://.import/DiffGreenProjectile.png-852e8f6c27a5c46abfb574e56e368426.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://fonts/Sprites/DiffGreenProjectile.png"
-dest_files=[ "res://.import/DiffGreenProjectile.png-125587ee8b88dabf8cd2408682c0d7e3.stex" ]
+source_file="res://Sprites/DiffGreenProjectile.png"
+dest_files=[ "res://.import/DiffGreenProjectile.png-852e8f6c27a5c46abfb574e56e368426.stex" ]
 
 [params]
 
